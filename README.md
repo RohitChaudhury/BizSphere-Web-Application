@@ -19,6 +19,9 @@ Create a new file named .env in the root directory and add the following environ
 DB_URI=<your MongoDB connection string>
 SECRET=<your session secret>
 or just run the application using php artisan serve on your machine's built in local server.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
   
 # Contributing
 This project is not open for contributions at this time.
