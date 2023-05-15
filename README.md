@@ -1,5 +1,5 @@
 # BizSphere-Web-Application
-BizSphere is a web application designed to streamline business operations and improve workflow efficiency. The application is built using Node.js and Express.js on the back-end, and Bootstrap and jQuery on the front-end.
+BizSphere is a web application designed to streamline business operations and improve workflow efficiency. The application is built using PHP Frmework-Laravel on the back-end, and Bootstrap and jQuery on the front-end.
 
 # Features
 User authentication and authorization
@@ -16,7 +16,7 @@ Clone the repository to your local machine.
 Install the necessary dependencies using npm install.
 Create a new file named .env in the root directory and add the following environment variables:
 
-DB_URI=<your MongoDB connection string>
+DB_URI=<your MySQL connection string>
 SECRET=<your session secret>
 or just run the application using php artisan serve on your machine's built in local server.
 
