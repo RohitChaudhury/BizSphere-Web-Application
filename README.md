@@ -13,7 +13,7 @@ Reports and analytics for tracking progress and identifying areas for improvemen
 To install and run the application locally, follow these steps:
 
 Clone the repository:
-git clone https://github.com/RohitChaudhury/CodeCrew-coding_forum_website.git
+git clone [ https://github.com/RohitChaudhury/CodeCrew-coding_forum_website.git](https://github.com/RohitChaudhury/BizSphere-Web-Application.git)
 Set up a local development environment with MAMP or similar software. Import the provided database file [crm_system.sql](crm_system.sql) into your MySQL database using phpMyAdmin or any other database management tool. Update the database connection settings in the config.php file with your database credentials. Launch the website by accessing the appropriate URL in your browser.
 
 upadate the .env file according to your server's credentials. 
