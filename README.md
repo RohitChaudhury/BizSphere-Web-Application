@@ -12,9 +12,11 @@ Reports and analytics for tracking progress and identifying areas for improvemen
 # Installation
 To install and run the application locally, follow these steps:
 
-Clone the repository to your local machine.
-Install the necessary dependencies using npm install.
-Create a new file named .env in the root directory and add the following environment variables:
+Clone the repository:
+git clone [https://github.com/RohitChaudhury/BizSphere-Web-Application.git](https://github.com/RohitChaudhury/BizSphere-Web-Application.git)
+Set up a local development environment with MAMP or similar software. Import the provided database file [crm_system.sql](crm_system.sql) into your MySQL database using phpMyAdmin or any other database management tool. Update the database connection settings in the config.php file with your database credentials. Launch the website by accessing the appropriate URL in your browser.
+
+upadate the .env file according to your server's credentials. 
 
 DB_URI=<your MySQL connection string>
 SECRET=<your session secret>
